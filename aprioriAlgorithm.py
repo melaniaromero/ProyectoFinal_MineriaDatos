@@ -1,26 +1,11 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-#Transformar los valores de la columna 'CAPACIDAD_PAGO_TOTAL'
-#Si es igual a 0 la capacidad de pago es Baja
-#Si es mayor a 0 y menor o igual a 1 la capacidad de pago es Aceptable
-#Si es mayor es 1 la capacidad de pago es Alta
-
-def transformar_capacidad_pago(valor):
-    if valor == 0:
-        return 'BAJO'
-    elif 0 < valor <= 1:
-        return 'ACEPTABLE'
-    elif valor > 1:
-        return 'ALTO'
-
 # Cargar el archivo CSV
 file_path = 'bank_data.csv'
 # Guardarlo en bank_data
 bank_data = pd.read_csv(file_path)
-#Es necesario transformar la columna CAPACIDAD_PAGO_TOTAL, ya que los valores van de un 
-#rango de 0 hasta 1.2, se aplicó la transformación para crear tres tipos: Bajo, Aceptable o Alto. 
-bank_data['CAPACIDAD_PAGO_TOTAL'] = bank_data['CAPACIDAD_PAGO_TOTAL'].apply(transformar_capacidad_pago)
+
 #Escribir las columnas que vamos a binarizar.
 columns_to_binarize = [
     'STATUS_SOLICITUD', 'TIPO_CTE', 'APROBACION_TC', 'TIPO_VIVIENDA', 'ESCOLARIDAD',

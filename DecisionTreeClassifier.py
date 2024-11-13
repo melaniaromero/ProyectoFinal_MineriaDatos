@@ -5,27 +5,10 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn import tree
 import matplotlib.pyplot as plt
 
-#Transformar los valores de la columna 'CAPACIDAD_PAGO_TOTAL'
-#Si es igual a 0 la capacidad de pago es Baja
-#Si es mayor a 0 y menor o igual a 1 la capacidad de pago es Aceptable
-#Si es mayor es 1 la capacidad de pago es Alta
-
-def transformar_capacidad_pago(valor):
-    if valor == 0:
-        return 'BAJO'
-    elif 0 < valor <= 1:
-        return 'ACEPTABLE'
-    elif valor > 1:
-        return 'ALTO'
-
 # Cargar el archivo CSV
 file_path = 'bank_data.csv'
 bank_data = pd.read_csv(file_path)
 
-#Aplicar transformación a 'CAPACIDAD_PAGO_TOTAL'
-bank_data['CAPACIDAD_PAGO_TOTAL'] = bank_data['CAPACIDAD_PAGO_TOTAL'].apply(transformar_capacidad_pago)
-#Guardar en bank_data_CAPACIDAD.csv
-bank_data.to_csv('bank_data_CAPACIDAD.csv', index=False)
 # Un comentario sobre las líneas que puedes usar para el analisis del arbol
  #   'STATUS_SOLICITUD', 'TIPO_CTE', 'APROBACION_TC', 'TIPO_VIVIENDA', 'ESCOLARIDAD',
  #  'NIVEL_RIESGO', 'COMPROBANTE_INGRESOS', 'SEGMENTO_CLIENTE','CAPACIDAD_PAGO_TOTAL'
