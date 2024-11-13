@@ -15,140 +15,140 @@ Soporte: 0.7024
 Conjunto 4: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6950
 
-Conjunto 5: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+Conjunto 5: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
 Soporte: 0.6224
 
-Conjunto 6: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+Conjunto 6: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
 Soporte: 0.6224
 
-Conjunto 7: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
+Conjunto 7: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6224
 
-Conjunto 8: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+Conjunto 8: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
 Conjunto 9: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
 Soporte: 0.6457
 
-Conjunto 10: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+Conjunto 10: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6950
 
-Conjunto 11: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+Conjunto 11: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6950
 
-Conjunto 12: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
+Conjunto 12: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6457
 
-Conjunto 13: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+Conjunto 13: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6457
 
 Conjunto 14: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6950
 
-Conjunto 15: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 15: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
 Soporte: 0.6224
 
-Conjunto 16: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+Conjunto 16: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6224
 
-Conjunto 17: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+Conjunto 17: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 18: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+Conjunto 18: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6224
 
-Conjunto 19: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+Conjunto 19: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 20: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+Conjunto 20: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 21: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 21: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6457
 
-Conjunto 22: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 22: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6457
 
-Conjunto 23: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+Conjunto 23: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6950
 
-Conjunto 24: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+Conjunto 24: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6457
 
-Conjunto 25: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 25: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
 Soporte: 0.6224
 
-Conjunto 26: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 26: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 27: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+Conjunto 27: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 28: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+Conjunto 28: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6224
 
-Conjunto 29: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Conjunto 29: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
 Soporte: 0.6457
 
-Conjunto 30: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+Conjunto 30: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
 Soporte: 0.6224
 
 
 Reglas de asociación generadas:
 
 Regla 0:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 1:
   Antecedente: {'TIPO_CTE_MALO'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
-Regla 2:
+Regla 1:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
-Regla 3:
+Regla 2:
   Antecedente: {'APROBACION_TC_Rechazado'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 4:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.8861
+Regla 3:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.4237
+  Lift: 1.5487
 
-Regla 5:
+Regla 4:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4237
 
-Regla 6:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+Regla 5:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.8955
+  Confianza: 0.8861
+  Soporte: 0.6224
+  Lift: 1.4237
+
+Regla 6:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 7:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
@@ -167,58 +167,58 @@ Regla 9:
   Lift: 1.4388
 
 Regla 10:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6950
+  Lift: 1.4237
+
+Regla 11:
   Antecedente: {'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 0.9895
   Soporte: 0.6950
   Lift: 1.4237
 
-Regla 11:
+Regla 12:
   Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6950
-  Lift: 1.4237
+  Lift: 1.4388
 
-Regla 12:
+Regla 13:
   Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6950
   Lift: 1.4388
 
-Regla 13:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
-  Soporte: 0.6950
-  Lift: 1.4388
-
 Regla 14:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9193
-  Soporte: 0.6457
-  Lift: 1.4237
-
-Regla 15:
   Antecedente: {'APROBACION_TC_Rechazado'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4237
 
-Regla 16:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+Regla 15:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
   Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
+  Confianza: 0.9193
+  Soporte: 0.6457
+  Lift: 1.4237
+
+Regla 16:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 17:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
@@ -237,231 +237,231 @@ Regla 19:
   Lift: 1.4237
 
 Regla 20:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 21:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 22:
   Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
+Regla 21:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 22:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
 Regla 23:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 24:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 25:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
   Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 24:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 25:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
 Regla 26:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.4237
 
 Regla 27:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 28:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 29:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.8861
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 30:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 31:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 32:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
+Regla 29:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 30:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 31:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8861
+  Soporte: 0.6224
+  Lift: 1.4237
+
+Regla 32:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
 Regla 33:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 34:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 35:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 36:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 37:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 38:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4237
 
 Regla 39:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 40:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 41:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8861
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 42:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 43:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 44:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
+Regla 41:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 42:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 43:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8861
+  Soporte: 0.6224
+  Lift: 1.4237
+
+Regla 44:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
 Regla 45:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 46:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 47:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 48:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 49:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 50:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
-Regla 51:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
+Regla 50:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
+Regla 51:
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
 Regla 52:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
@@ -469,125 +469,125 @@ Regla 52:
 
 Regla 53:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8861
   Soporte: 0.6224
   Lift: 1.4237
 
 Regla 54:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.8955
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 55:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 56:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 57:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 58:
   Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4237
 
+Regla 57:
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 58:
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6457
+  Lift: 1.4388
+
 Regla 59:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 60:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 61:
   Antecedente: {'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Confianza: 0.9193
   Soporte: 0.6457
   Lift: 1.4237
 
-Regla 60:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 61:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
 Regla 62:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 63:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 64:
   Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
+Regla 63:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 64:
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6457
+  Lift: 1.4388
+
 Regla 65:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 66:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 67:
   Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
-Regla 66:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 67:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
 Regla 68:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6950
-  Lift: 1.4388
-
-Regla 69:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6950
   Lift: 1.4388
 
+Regla 69:
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6950
+  Lift: 1.4388
+
 Regla 70:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6950
@@ -595,41 +595,41 @@ Regla 70:
 
 Regla 71:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.9895
   Soporte: 0.6950
   Lift: 1.4237
 
 Regla 72:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6950
   Lift: 1.4388
 
 Regla 73:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6950
   Lift: 1.4388
 
 Regla 74:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 75:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
+Regla 75:
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
 Regla 76:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
@@ -637,722 +637,722 @@ Regla 76:
 
 Regla 77:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.9193
   Soporte: 0.6457
   Lift: 1.4237
 
 Regla 78:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 79:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 80:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 81:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 82:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 83:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4237
 
-Regla 84:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 85:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 86:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 87:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 88:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 89:
-  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 90:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8861
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 91:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 92:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 93:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 94:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 95:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 96:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Regla 81:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 97:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 98:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Regla 82:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 99:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 100:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 101:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 102:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 103:
-  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 104:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 105:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 106:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 107:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 108:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+Regla 83:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
+Regla 84:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 85:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 86:
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 87:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 88:
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 89:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 90:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 91:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 92:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 93:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8861
+  Soporte: 0.6224
+  Lift: 1.4237
+
+Regla 94:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 95:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 96:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 97:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 98:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 99:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 100:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 101:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 102:
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 103:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 104:
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 105:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 106:
+  Antecedente: {'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 107:
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 108:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
+
 Regla 109:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 110:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 111:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4237
 
 Regla 112:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 113:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 114:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 115:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 116:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 117:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 118:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8861
   Soporte: 0.6224
   Lift: 1.4237
 
 Regla 119:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 120:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 121:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 122:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
 Regla 123:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 124:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 125:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4237
 
 Regla 126:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 127:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 128:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
 Regla 129:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
 Regla 130:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 131:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 132:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8861
   Soporte: 0.6224
   Lift: 1.4237
 
 Regla 133:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
   Soporte: 0.6224
-  Lift: 1.4388
+  Lift: 1.5487
 
 Regla 134:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 135:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.8955
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
 Regla 136:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 137:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 138:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
+Regla 137:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
+Regla 138:
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO'}
+  Confianza: 1.0000
+  Soporte: 0.6457
+  Lift: 1.4388
+
 Regla 139:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4237
 
 Regla 140:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 141:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 142:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6457
-  Lift: 1.4388
-
-Regla 143:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
-Regla 144:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
+Regla 143:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
+Regla 144:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9291
+  Soporte: 0.6457
+  Lift: 1.4388
+
 Regla 145:
-  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 146:
   Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.9193
   Soporte: 0.6457
   Lift: 1.4237
 
 Regla 147:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 148:
-  Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.9291
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 149:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9291
   Soporte: 0.6457
   Lift: 1.4388
 
 Regla 150:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 151:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 152:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
+Regla 151:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
 
-Regla 153:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+Regla 152:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Consecuente: {'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4237
 
+Regla 153:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
 Regla 154:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 155:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 156:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Confianza: 0.9639
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 157:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 158:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Confianza: 1.0000
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 159:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 160:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 161:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 162:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 163:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
+Regla 162:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 1.0000
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4388
+
+Regla 163:
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.4388
 
 Regla 164:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 165:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
-  Soporte: 0.6224
-  Lift: 1.4388
-
-Regla 166:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
-  Soporte: 0.6224
-  Lift: 1.5487
-
-Regla 167:
-  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 168:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+Regla 165:
+  Antecedente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
+  Soporte: 0.6224
+  Lift: 1.5487
+
+Regla 166:
+  Antecedente: {'TIPO_CTE_MALO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
+Regla 167:
+  Antecedente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.8955
+  Soporte: 0.6224
+  Lift: 1.4388
+
+Regla 168:
+  Antecedente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
+
 Regla 169:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 170:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
+  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 171:
-  Antecedente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8955
+  Antecedente: {'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 172:
-  Antecedente: {'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO'}
-  Confianza: 1.0000
+  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada'}
+  Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 173:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 1.0000
+  Antecedente: {'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 174:
-  Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
+  Antecedente: {'APROBACION_TC_Rechazado', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Consecuente: {'TIPO_CTE_MALO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.9639
   Soporte: 0.6224
   Lift: 1.5487
 
 Regla 175:
   Antecedente: {'TIPO_CTE_MALO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
 
 Regla 176:
-  Antecedente: {'NIVEL_RIESGO_Alto'}
-  Consecuente: {'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
-  Confianza: 0.8861
-  Soporte: 0.6224
-  Lift: 1.4237
-
-Regla 177:
   Antecedente: {'STATUS_SOLICITUD_Rechazada'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'APROBACION_TC_Rechazado', 'NIVEL_RIESGO_Alto'}
   Confianza: 1.0000
   Soporte: 0.6224
   Lift: 1.5487
 
-Regla 178:
-  Antecedente: {'APROBACION_TC_Rechazado'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO'}
-  Confianza: 0.9639
+Regla 177:
+  Antecedente: {'NIVEL_RIESGO_Alto'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'CAPACIDAD_PAGO_TOTAL_BAJO'}
+  Confianza: 0.8861
   Soporte: 0.6224
-  Lift: 1.5487
+  Lift: 1.4237
 
-Regla 179:
+Regla 178:
   Antecedente: {'CAPACIDAD_PAGO_TOTAL_BAJO'}
-  Consecuente: {'NIVEL_RIESGO_Alto', 'STATUS_SOLICITUD_Rechazada', 'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'APROBACION_TC_Rechazado', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
   Confianza: 0.8955
   Soporte: 0.6224
   Lift: 1.4388
+
+Regla 179:
+  Antecedente: {'APROBACION_TC_Rechazado'}
+  Consecuente: {'TIPO_CTE_MALO', 'CAPACIDAD_PAGO_TOTAL_BAJO', 'STATUS_SOLICITUD_Rechazada', 'NIVEL_RIESGO_Alto'}
+  Confianza: 0.9639
+  Soporte: 0.6224
+  Lift: 1.5487
 

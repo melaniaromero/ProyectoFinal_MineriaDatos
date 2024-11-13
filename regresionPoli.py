@@ -9,7 +9,7 @@ data = pd.read_csv('bank_data1.csv')
 
 # Seleccionar las columnas necesarias
 X = data[['CAPACIDAD_PAGO_TOTAL']].values
-y = data['INGRESO_INFERIDO'].values
+y = data['SOLICITUDES_RECHAZADAS'].values
 
 # Transformación polinomial de grado 5
 poly = PolynomialFeatures(degree=5)
@@ -29,7 +29,7 @@ plt.figure(figsize=(10, 6))
 plt.scatter(X, y, color='blue', label='Datos originales')
 plt.plot(X_range, y_pred, color='red', label='Regresión polinomial de grado 5')
 plt.xlabel('CAPACIDAD_PAGO_TOTAL')
-plt.ylabel('INGRESO_INFERIDO')
-plt.title('CAPACIDAD_PAGO_TOTAL vs INGRESO_INFERIDO')
+plt.ylabel('SOLICITUDES_RECHAZADAS')
+plt.title('CAPACIDAD_PAGO_TOTAL vs SOLICITUDES_RECHAZADAS')
 plt.legend()
 plt.show()
